@@ -8,7 +8,13 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, experimentos e estud
 
 ## 🚀 Sobre mim
 
-Sou estudante no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Americana, com foco em Java, Pyhton, PHP, MySQL, PostgreSQL e um gosto especial por infraestrutura, automação, docker, DevOps. Curioso por natureza e determinado por estilo de vida, tô sempre buscando maneiras de criar soluções mais eficientes, seguras e inteligentes.
+Oi! Me chamo Victor Hugo Batalhão, tenho 19 anos e estou me formando em Análise e Desenvolvimento de Sistemas pela FATEC Americana.
+
+Desde muito novo, a tecnologia sempre fez parte do meu dia a dia. Passava horas no computador, mas o que realmente despertou minha atenção foi a curiosidade em entender como tudo aquilo funcionava por dentro — como um computador operava, como processava informações, e o que tornava possível a interação com o usuário. Esse foi o pontapé inicial da minha jornada na área de TI.
+
+Em 2020, decidi transformar esse interesse em carreira. Iniciei meus estudos na ETEC em Desenvolvimento de Sistemas, com uma formação técnica enriquecida por uma mentoria especial da IBM, o que me proporcionou uma base sólida e uma visão mais ampla do setor.
+
+Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam evoluir como profissional e como pessoa. Sou movido pela curiosidade, pela inovação e pelo desejo de criar soluções tecnológicas que realmente agreguem valor.
 
 ---
 
