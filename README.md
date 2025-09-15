@@ -25,7 +25,7 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 | Java, C, Python, PHP | MySQL, PostgreSQL, SQLite | Docker, Git, GitHub, VS Code |
 | HTML, CSS, JS (básico) | REST APIs, JSON | Linux, Bash, MQTT, Arduino, ESP32 |
 
-HTML5 CSS3 PHP GitHub Figma VS Code
+[![My Skills](https://skillicons.dev/icons?i=java,python,C#)](https://skillicons.dev)
 
 ---
 
