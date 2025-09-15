@@ -20,12 +20,9 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 
 ## 🔧 Tecnologias e Ferramentas
 
-| Linguagens | Backend & DB | DevOps & Outros |
-|------------|--------------|-----------------|
-| Java, C, Python, PHP | MySQL, PostgreSQL, SQLite | Docker, Git, GitHub, VS Code |
-| HTML, CSS, JS (básico) | REST APIs, JSON | Linux, Bash, MQTT, Arduino, ESP32 |
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,C#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,Cs,aws,js,html,php,react,css,linux)](https://skillicons.dev)
+[![My Tols](https://skillicons.dev/icons?i=idea,vscode,postman)](https://skillicons.dev)
+[![DataBase](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ---
 
