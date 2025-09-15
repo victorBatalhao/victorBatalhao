@@ -51,6 +51,10 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://www.credly.com/users/victor-batalhao">
+  <img src="https://img.shields.io/badge/credly%230077B5.svg?style=for-the-badge&logo=credly&logoColor=white">
+</a>
+
 ---
 
 > “Código limpo é poesia funcional. Escreva com propósito, debugue com coragem.” — Eu mesmo depois de muito café ☕
