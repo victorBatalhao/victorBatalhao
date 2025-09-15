@@ -50,7 +50,7 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 - [LinkedIn](https://www.linkedin.com/in/victor-hugo-batalhão-aa5468211)
 - Email: **victorhugobatalhao@gmail.com**
 
-    [https://www.flaticon.com/br/icone-gratis/linkedin_3256016](https://www.youtube.com/watch?v=H5XBjyoU1E0)
+        <a href="www.linkedin.com/in/victor-hugo-batalhão"><img src="[url_do_icone_da_rede_social](https://www.flaticon.com/br/icone-gratis/linkedin_3256016)" width="32" height="32" alt="Ir para Perfil no Linkedin"></a>
 ---
 
 > “Código limpo é poesia funcional. Escreva com propósito, debugue com coragem.” — Eu mesmo depois de muito café ☕
