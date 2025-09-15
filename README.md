@@ -41,7 +41,7 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 - 🔧 Estudando **Spring Boot**, **CI/CD** com GitHub Actions
 - 🤖 Brincando com **automação IoT** usando ESP32 + sensores
 - 🧠 Aprimorando algoritmos e estruturas de dados
-- Angular e React
+- React
 
 ---
 
@@ -49,10 +49,6 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 
 <a href="https://www.linkedin.com/in/victor-hugo-batalhão/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.credly.com/users/victor-batalhao">
-  <img src="https://img.shields.io/badge/credly%230077B5.svg?style=for-the-badge&logo=credly&logoColor=white">
 </a>
 
 ---
