@@ -20,9 +20,15 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 
 ## 🔧 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,aws,js,html,php,react,css,linux&perline=5)](https://skillicons.dev)
-[![My Tols](https://skillicons.dev/icons?i=idea,vscode,postman,git,githubactions&perline=5)](https://skillicons.dev)
-[![DataBase](https://skillicons.dev/icons?i=mysql,postgres&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,aws,js,html,php,react,css,linux)](https://skillicons.dev)
+[![My Tols](https://skillicons.dev/icons?i=idea,vscode,postman,git,githubactions)](https://skillicons.dev)
+[![DataBase](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ---
 
