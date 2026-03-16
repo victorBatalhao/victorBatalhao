@@ -1,6 +1,6 @@
 # 👨‍💻 Victor Hugo Batalhão
 
-📍 Brasil | 🎓 Estudante de TI | 🧠 Apaixonado por código e novos conhecimentos
+📍 Brasil | 🎓 Analista e Desenvolvedor de Software | Professor de Programação e Inteligência Artificial | 🧠 Apaixonado por código e novos conhecimentos
 
 Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, experimentos e estudos nas áreas de Análise e Desenvolvimento de Sistemas e tudo o que alimenta minha curiosidade e evolução como desenvolvedor.
 
@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, experimentos e estud
 
 ## 🚀 Sobre mim
 
-Oi! Me chamo Victor Hugo Batalhão, tenho 19 anos e estou me formando em Análise e Desenvolvimento de Sistemas pela FATEC Americana.
+Oi! Me chamo Victor Hugo Batalhão, tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Americana.
 
 Desde muito novo, a tecnologia sempre fez parte do meu dia a dia. Passava horas no computador, mas o que realmente despertou minha atenção foi a curiosidade em entender como tudo aquilo funcionava por dentro — como um computador operava, como processava informações, e o que tornava possível a interação com o usuário. Esse foi o pontapé inicial da minha jornada na área de TI.
 
@@ -30,7 +30,8 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 
 - Sistema de cadastro de clientes
 - Gerenciamento de Estoque
-- Projeto Valentine´s Day
+- IA de análise de mercado e compra de ações
+- Valentine´s Day Gallery
 
 > ⚠️ *Mais projetos em breve! Em constante aprendizado e construção!*
 
@@ -41,7 +42,8 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 - 🔧 Estudando **Spring Boot**, **CI/CD** com GitHub Actions
 - 🤖 Brincando com **automação IoT** usando ESP32 + sensores
 - 🧠 Aprimorando algoritmos e estruturas de dados
-- React
+- Inteligência Artificial
+- Automação com Python
 
 ---
 
