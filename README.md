@@ -26,7 +26,7 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,html,php,react,css,linux" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,html,php,react,css,linux&perline=5" />
   </a>
 </p>
 
