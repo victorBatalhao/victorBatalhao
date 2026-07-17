@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, experimentos e estud
 
 ## 🚀 Sobre mim
 
-Oi! Me chamo Victor Hugo Batalhão, tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Americana.
+Oi! Me chamo Victor Hugo Batalhão, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Americana.
 
 Desde muito novo, a tecnologia sempre fez parte do meu dia a dia. Passava horas no computador, mas o que realmente despertou minha atenção foi a curiosidade em entender como tudo aquilo funcionava por dentro — como um computador operava, como processava informações, e o que tornava possível a interação com o usuário. Esse foi o pontapé inicial da minha jornada na área de TI.
 
