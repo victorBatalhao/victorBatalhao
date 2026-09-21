@@ -51,7 +51,7 @@ Hoje, sigo desenvolvendo minhas habilidades e buscando desafios que me permitam 
 
 ## 🌐 Me encontre por aí
 
-<a href="https://www.linkedin.com/in/victor-hugo-batalhão/">
+<a href="https://www.linkedin.com/in/victor-hugo-batalhao/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
